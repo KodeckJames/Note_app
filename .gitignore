@@ -1,0 +1,8 @@
+*.env
+db.sqlite3
+*.secret
+*.log
+venv/
+.DS_Store
+Thumbs.db
+settings.py
